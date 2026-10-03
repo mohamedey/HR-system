@@ -1,0 +1,6 @@
+@HrSystem.WebApi_HostAddress = http://localhost:5075
+
+GET {{HrSystem.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
